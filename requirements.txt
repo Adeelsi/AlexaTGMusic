@@ -18,7 +18,7 @@ dnspython
 tgcrypto
 gitpython
 heroku3
-flask==2.1.1
+flask==2.2.2
 werkzeug==2.0.3
 requests
 PyYAML>=5.3.1
@@ -27,3 +27,4 @@ spotipy
 pykeyboard
 git+https://github.com/myrepotestv1/asad-ld
 git+https://github.com/myrepotestv1/abgram
+gunicorn==20.1.0
